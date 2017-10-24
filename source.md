@@ -37,7 +37,7 @@ class: center, middle
 
 ** Ada Lovelace **
 
-![](IMG_6195 copy.jpg)
+![](a.jpg)
 
 ---
 

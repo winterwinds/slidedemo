@@ -1,23 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      /* Slideshow styles */
+    </style>
+  </head>
+  <body>
+     <textarea id="source">
+      <!-- Slideshow Markdown -->
+    </textarea>
+     <script src="remark.js">
+    </script>
+    <script>
+       var slideshow = remark.create();
+    </script>
+  </body>
+</html>
 class: center, middle
-
-# 讲义题目
+我我我我我
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 谭淑敏 (806421280@qq.com)  
 
-主页: https://github.com/author
+主页: https://github.com/winterwinds
 
 ---
 
-## 本讲内容
+## 关于我
 
 ### <font color="orangered">1. 第一部分</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 我是谁
+#### &nbsp; &nbsp; 1.2 我从哪里来
+#### &nbsp; &nbsp; 1.3 我到哪里去
 
 ### 2. 第二部分
 
@@ -28,11 +45,9 @@ class: center, middle
 ## 第一部分
 
 ```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
+#大家好我叫谭淑敏
+#我是湖南人
+#我哪里都不去
 ```
 
 ---
@@ -41,19 +56,21 @@ int main()
 
 ** Ada Lovelace **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+<img src="http://photo.weibo.com/1601388097/wbphotos/large/mid/4164982541691362/pid/5f733e41ly1fkouqdmnm5j21kw0yynpj" width=300 style="margin: 0px 80px">
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 第二部分
+```c
+我是外院的学生，学习阿拉伯语
+```
 
+---
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+##第三部分
+```c
+希望能和大家好好相处
+```
 
 ---
 

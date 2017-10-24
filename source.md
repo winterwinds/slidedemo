@@ -37,7 +37,7 @@ class: center, middle
 
 ** Ada Lovelace **
 
-<img src="http://photo.weibo.com/1601388097/wbphotos/large/mid/4164982541691362/pid/5f733e41ly1fkouqdmnm5j21kw0yynpj" width=300 style="margin: 0px 80px">
+<img src="./IMG_6195copy.jpg" width=300 style="margin: 0px 80px">
 
 ---
 
